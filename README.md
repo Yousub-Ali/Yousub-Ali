@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yousub-Ali
+- 👋 Hi, I’m @Yousub Ali
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning FULL STACK MERN DEVELOPMENT
 - 💞️ I’m looking to collaborate on MERN Projects
